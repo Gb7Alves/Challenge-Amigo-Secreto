@@ -72,3 +72,4 @@ function sortearAmigo() {
     alert('O sorteio foi realizado com sucesso!');
 }
 //E O CHAT KRL
+//aaaaaa
