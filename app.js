@@ -1,4 +1,4 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+// O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 
 
 // Array para armazenar os nomes dos amigos
@@ -71,3 +71,8 @@ function sortearAmigo() {
     document.querySelector('.button-draw').disabled = true;  // Desabilita o botão após o sorteio
     alert('O sorteio foi realizado com sucesso!');
 }
+
+//git add .
+//git commit -m "Atualização automática // O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. 
+//Aqui você deverá desenvolver a lógica para resolver o problema."
+//git push origin master
