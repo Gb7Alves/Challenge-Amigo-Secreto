@@ -71,4 +71,4 @@ function sortearAmigo() {
     document.querySelector('.button-draw').disabled = true;  // Desabilita o botão após o sorteio
     alert('O sorteio foi realizado com sucesso!');
 }
-//Fanzendo um teste
+//E O CHAT KRL
