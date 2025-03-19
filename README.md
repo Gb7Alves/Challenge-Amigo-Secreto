@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar alguns dos meus projetos desen
 ### 2. **Jogo do Número Secreto**
    - **Sobre**: Este projeto foi desenvolvido como parte dos cursos de Lógica de Programação da Alura. O objetivo do jogo é tentar adivinhar um número gerado aleatoriamente pelo computador.
    - **Tecnologias**: HTML, CSS, JavaScript.
-   - **Link**: [Jogo do Número Secreto](https://jogo-do-numero-secreto-tau-gilt.vercel.app/)
+   - **Link**: [Jogo do Número Secreto](https://jogo-do-numero-secreto-kappa-seven-12.vercel.app/)
 
 ## 💻 O que estou aprendendo:
 - **Desenvolvimento Web**: Aprendendo e praticando com HTML, CSS e JavaScript.
